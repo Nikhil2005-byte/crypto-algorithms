@@ -1,0 +1,5 @@
+*.pem
+*.bin
+__pycache__/
+*.pyc
+venv/
