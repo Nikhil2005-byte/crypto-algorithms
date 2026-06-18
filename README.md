@@ -97,12 +97,19 @@ python3 main.py --help
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-![SHA Demo](screenshots/Screenshot_2026-06-11_02_00_42.png)
-![AES Demo](screenshots/Screenshot_2026-06-11_02_01_59.png)
-![RSA Demo](screenshots/Screenshot_2026-06-13_13_13_04.png)
-![Help Menu](screenshots/Screenshot_2026-06-13_13_15_43.png)
+### Help Menu
+![Help](screenshots/Screenshot_1.png)
+
+### SHA Hashing
+![SHA](screenshots/Screenshot_2.png)
+
+### AES Encryption & Decryption
+![AES](screenshots/Screenshot_3.png)
+
+### RSA Workflow
+![RSA](screenshots/Screenshot_4.png)
 
 ---
 
